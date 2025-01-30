@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+google-api-python-client>=2.117.0
+google-auth-oauthlib
+python-dotenv
+beautifulsoup4
+pandas
+apscheduler
+pikepdf
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-core
+llama-parse
+llama-index-readers-file
+backoff
